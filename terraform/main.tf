@@ -4,7 +4,7 @@ module "sandbox" {
     AccountEmail              = "aws.aft-testing"
     AccountName               = "Sandbox-aft"
     ManagedOrganizationalUnit = "Sandbox"
-    SSOUserEmail              = "aws.aft-testing"
+    SSOUserEmail              = "aws.aft-testing@fisherpaykel.com"
     SSOUserFirstName          = "Sandbox"
     SSOUserLastName           = "AFT"
   }
